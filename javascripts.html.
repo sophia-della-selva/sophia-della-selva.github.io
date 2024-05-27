@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javascript</title>
+</head>
+<body>
+<img src="https://students.cs.uri.edu/~csc106/week-1/CSCBanner.jpg" alt="blue banner with the words CSC106, The Joy of Programming">
+<table>
+    <tr>
+        <th>
+            <img src="https://students.cs.uri.edu/~csc106/week-1/HomeButton.png" alt="">
+    <th>
+        <img src="https://students.cs.uri.edu/~csc106/week-1/JavaScriptButton.png" alt="">
+    </th>
+<th>
+    <img src="https://students.cs.uri.edu/~csc106/week-1/AboutMeButton.png" alt="">
+</th>
+    </tr>
+</table>
+<h1>My Javascript Programs</h1>
+    <p></p>
+</body>
+</html>
